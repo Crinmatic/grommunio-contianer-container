@@ -74,7 +74,7 @@ sudo docker compose up
 
 **Default login details**
 
-Username - admin
-Password - admin
+- Username - admin
+- Password - admin
 
 
