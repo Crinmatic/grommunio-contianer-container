@@ -57,7 +57,7 @@ sudo docker compose up
 ```
 
 
-* You can log into the container to verify that thees files are properly linked in the **/home** directory.
+* You can log into the container to verify that these files are properly linked in the **/home** directory.
   * Check for running containers and note the <container ID>;
     ```
     sudo docker container ls
